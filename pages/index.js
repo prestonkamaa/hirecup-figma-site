@@ -10,8 +10,7 @@ import Blog from "../components/Blog";
 
 export default function Home() {
   return (
-    <div> 
-      
+    <div>  
       <HeroSection />
       <ClientLogo />
       <IntroText />
