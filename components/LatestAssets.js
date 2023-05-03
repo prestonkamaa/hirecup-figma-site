@@ -8,7 +8,7 @@ export default function LatestAssets() {
     <section className=" py-28 bg-[#F4F6FF]">
 
       <div className=" container mx-auto">
-        <h1 className=" mx-auto max-w-[37rem] text-center font-black text-4xl text-[#10375C]"><span className=" text-[#127681]">Latest asset </span>that waiting for you
+        <h1 className=" mx-auto px-5 lg:max-w-[37rem] text-center font-black text-4xl text-[#10375C]"><span className=" text-[#127681]">Latest asset </span>that waiting for you
          100+ Job, 330+ Employee
         </h1>
 
